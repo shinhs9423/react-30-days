@@ -1,6 +1,8 @@
 //.prettierrc.js
 
 module.exports = {
+  jsxSingleQuote: true,
+  // jsx 파일 single quotes
   singleQuote: true,
   // 문자열은 따옴표로 formatting
   semi: true,

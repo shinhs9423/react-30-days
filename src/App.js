@@ -1,5 +1,6 @@
-function App() {
-  return <h1 className='hi'> git</h1>;
-}
+import UserCard from './day3/UserCard';
 
+function App() {
+  return <UserCard />;
+}
 export default App;

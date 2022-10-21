@@ -21,5 +21,7 @@ module.exports = {
     ],
     'react/react-in-jsx-scope': 'off',
     'jsx-quotes': ['error', 'prefer-single'],
+    'import/prefer-default-export': 0,
+    'react/no-array-index-key': 'off',
   },
 };
